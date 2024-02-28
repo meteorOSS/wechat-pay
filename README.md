@@ -18,7 +18,7 @@
 ``` json
 {
 "code": 200,
--"data": {
+"data": {
 "amount": 1,
 "notes": "买一瓶可乐",
 "time": 1709116512918
