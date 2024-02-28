@@ -1,5 +1,8 @@
 ![image](https://github.com/meteorOSS/wechat-pay/assets/61687266/862f4901-828c-4f39-aa00-7c9cb302d584)
 
+![image](https://github.com/meteorOSS/wechat-pay/assets/61687266/814d735b-9b8f-44a2-b319-be5439032d61)
+
+
 
 基于 [WeChatBc](https://github.com/meteorOSS/WeChatBc) 实现
 
