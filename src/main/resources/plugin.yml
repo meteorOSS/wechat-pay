@@ -1,0 +1,6 @@
+name: 'WeChatPay'
+main: 'com.meteor.wechatpay.PluginMain'
+version: 1.0
+authors:
+  - 'meteor'
+description: '微信二维码收款监听'
